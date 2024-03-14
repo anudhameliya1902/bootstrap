@@ -1,0 +1,271 @@
+@media(min-width:0px) and (max-width:576px){
+    #slide{
+        height:auto;
+    }
+    #text1{
+        margin-left: 110px;
+        margin-top: 180px;
+        font-size:60px;
+    }
+    #text2{
+        margin-left:200px;
+        margin-top: 150px;
+        font-size:20px
+    }
+    .carousel{
+        height:400px;
+    }
+    #section1{
+        height:auto;
+    }
+    #setc1{
+        flex-direction: column;
+    }
+    #secti1{
+        width:50%;
+        margin-left:150px;
+        margin-top: 10px;
+    }
+    #secton2{
+        height:auto;
+    }
+    #sect2{
+        height:auto;
+        flex-direction: column;
+    }
+    #secti2{
+        height:auto;
+        width: 100%;
+    }
+    #sect4{
+        height:auto;
+        display:flex;
+        flex-wrap: wrap;
+    }
+    #secti3{
+        width:45%;
+        margin-top: 10px;
+    }
+    #section3{
+        height:auto;
+    }
+    #sect5{
+        display:flex;
+        flex-wrap: wrap;
+    }
+    #secti4{
+        width:45%;
+        height: 200px;
+        margin-top: 20px;
+    }
+    #section4{
+        height:auto;
+    }
+    #stect5{
+        height:auto;
+    }
+    .swiper{
+        margin-top:40px;
+    }
+    .swiper-slide p{
+        font-size:10px;
+    }
+    #section5{
+        height: auto;
+    }
+    #stect6{
+        height:auto;
+    }
+    #sw2{
+        height:auto;
+        margin-top: 50px;
+    }
+    #section8{
+        width: 100%;
+        height: auto;
+        margin-top: 100px;
+    }
+    #footer{
+        width: 100%;
+        height: auto;
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #foter1{
+        width:70%;
+        height: auto;
+        border: 5px double white;
+    }
+
+
+}
+@media(min-width:577px) and (max-width:768px){
+    #slide{
+        height:auto;
+    }
+    #text1{
+        margin-left: 150px;
+        margin-top: 180px;
+        font-size:80px;
+    }
+    #text2{
+        margin-left:260px;
+        margin-top: 150px;
+        font-size:25px
+    }
+    .carousel{
+        height:450px;
+    }
+    #section1{
+        height:auto;
+    }
+    #setc1{
+       display: flex;
+       flex-wrap: wrap;
+    }
+    #secti1{
+        width:35%;
+        margin-top: 20px;
+    }
+    #secton2{
+        height:auto;
+    }
+    #sect2{
+        height:auto;
+        flex-direction: column;
+    }
+    #secti2{
+        height:auto;
+        width: 100%;
+    }
+    #secti2 img{
+        height:200px;
+    }
+    #sect4{
+        height:auto;
+        display:flex;
+        flex-wrap: wrap;
+    }
+    #secti3{
+        width:45%;
+        margin-top: 10px;
+    }
+    #section3{
+        height:auto;
+    }
+    #sect5{
+        display:flex;
+        flex-wrap: wrap;
+    }
+    #secti4{
+        width:45%;
+        height: 230px;
+        margin-top: 20px;
+    }
+    #secti4{
+        width:45%;
+        height: 200px;
+        margin-top: 20px;
+    }
+    #section4{
+        height:auto;
+    }
+    #stect5{
+        height:auto;
+    }
+    .swiper{
+        margin-top:40px;
+    }
+    .swiper-slide p{
+        font-size:14px;
+    }
+    #section5{
+        height: auto;
+    }
+    #stect6{
+        height:auto;
+    }
+    #sw2{
+        height:auto;
+        margin-top: 50px;
+    }
+    #section8{
+        width: 100%;
+        height: auto;
+        margin-top: 100px;
+    }
+    #footer{
+        width: 100%;
+        height: auto;
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #foter1{
+        width:70%;
+        height: auto;
+        border: 5px double white;
+    }
+}   
+@media(min-width:769px) and (max-width:992px){
+    #text1{
+        margin-left: 180px;
+        margin-top: 270px;
+        font-size:100px;
+    }
+    #text2{
+        margin-left:300px;
+        margin-top: 240px;
+        font-size:30px
+    }
+    .carousel{
+        height:600px;
+    }
+    #section1{
+        height:auto;
+    }
+    #setc1{
+       display: flex;
+       flex-wrap: wrap;
+    }
+    #secti1{
+        width:30%;
+        /* margin-left:150px; */
+        margin-top: 20px;
+    }
+    #secton2{
+        height:auto;
+    }
+    #sect2{
+        height:auto;
+    }
+    #secti2{
+        height:auto;
+        width: 50%;
+    }
+    #secti2 img{
+        height:200px;
+    }
+    #sect4{
+        height:auto;
+        margin-top: 20px;
+    }
+    #section3{
+        height:auto;
+        margin-top: 40px;
+    }
+    #section4{
+        height:auto;
+    }
+    #stect5{
+        height:auto;
+    }
+    #section5{
+        height:auto;
+    }
+    #sw2{
+        height:auto;
+        margin-top:30px;
+    }
+}   
